@@ -74,7 +74,7 @@ const ProductCard = ({
                 className="w-full h-72 max-h-[240px] object-cover rounded-lg border-2 border-[#f15c5c]"
               />
             </picture>
-            <div className="absolute bottom-[-25px] left-[50%] w-full max-w-[160px] transform -translate-x-1/2 inline-flex items-center gap-2 px-3 py-3 bg-[#f15c5c] border border-[#f15c5c] rounded-full text-white justify-between">
+            <div className="absolute bottom-[-25px] left-[50%] w-full max-w-[160px] transform -translate-x-1/2 inline-flex items-center gap-2 px-3 py-3 bg-[#C73B0F] border border-[#f15c5c] rounded-full text-white justify-between">
               <button
                 onClick={handleDecreaseQuantity}
                 className="w-8 h-8 flex items-center justify-center bg-[W#f15c5c] border border-white text-white rounded-full hover:bg-gray-100 hover:text-[#f15c5c] transition-colors"
