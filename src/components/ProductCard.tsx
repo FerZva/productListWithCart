@@ -98,7 +98,7 @@ const ProductCard = ({
               <img
                 src={image.mobile}
                 alt={title}
-                className="w-full h-72 max-h-[240px] object-cover rounded-lg border-2 border-[#f15c5c]"
+                className="w-full h-72 max-h-[240px] object-cover rounded-lg"
               />
             </picture>
             <button
