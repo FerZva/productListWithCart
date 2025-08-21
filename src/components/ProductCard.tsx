@@ -61,7 +61,7 @@ const ProductCard = ({
   };
 
   return (
-    <div className="max-w-sm overflow-hidden m-auto">
+    <div className="max-w-sm overflow-hidden m-auto sm:m-0">
       <div className="relative h-auto mb-[15px]  max-w-[250.67px] max-h-[347px]">
         {isInCart ? (
           <>
